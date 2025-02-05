@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyesh123-jain" alt="divyesh123-jain" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/here_is_dj" target="blank"><img src="https://img.shields.io/twitter/follow/here_is_dj?logo=twitter&style=for-the-badge" alt="here_is_dj" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
